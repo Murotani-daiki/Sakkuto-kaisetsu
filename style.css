@@ -857,9 +857,27 @@ nav {
     margin-bottom: 15px;
 }
 
+.author-community {}
+
+.author-community a {
+    border: none !important;
+    padding: 0 !important;
+    background: none !important;
+}
+
+.author-community img {
+    display: block;
+    transition: opacity 0.3s;
+}
+
+.author-community img:hover {
+    opacity: 0.8;
+}
+
 .author-social {
     display: flex;
     gap: 15px;
+    margin-bottom: 15px;
 }
 
 .author-social a {
