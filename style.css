@@ -1005,3 +1005,133 @@ footer p {
         border-radius: 0;
     }
 }
+
+/* Table Styles */
+.article-table-wrapper {
+    overflow-x: auto;
+    margin: 20px 0;
+}
+
+.article-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--white);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.article-table th,
+.article-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.article-table th {
+    background-color: var(--primary-color);
+    color: var(--white);
+    font-weight: 700;
+}
+
+.article-table tr:last-child td {
+    border-bottom: none;
+}
+
+.article-table tr:nth-child(even) {
+    background-color: #fcfcfc;
+}
+
+@media (max-width: 600px) {
+
+    .article-table th,
+    .article-table td {
+        padding: 8px 10px;
+        font-size: 0.85rem;
+    }
+}
+
+/* Table of Contents */
+.table-of-contents {
+    background-color: #fcfcfc;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 25px;
+    margin: 30px 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+}
+
+.table-of-contents h3 {
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
+.table-of-contents h3::before {
+    content: "📋";
+    font-size: 1.4rem;
+}
+
+.table-of-contents ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.table-of-contents li {
+    margin-bottom: 12px;
+    padding-left: 0;
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 12px;
+}
+
+.table-of-contents li:last-child {
+    margin-bottom: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.table-of-contents a {
+    display: block;
+    color: var(--text-color);
+    font-weight: 500;
+    transition: all 0.3s;
+    position: relative;
+    padding-left: 25px;
+}
+
+.table-of-contents a::before {
+    content: "▶";
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+    font-size: 0.8rem;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.3s;
+}
+
+.table-of-contents a:hover {
+    color: var(--primary-color);
+    transform: translateX(5px);
+}
+
+.table-of-contents a:hover::before {
+    transform: translateY(-50%) scale(1.2);
+}
+
+@media (max-width: 600px) {
+    .table-of-contents {
+        padding: 20px 15px;
+    }
+
+    .table-of-contents a {
+        font-size: 0.95rem;
+    }
+}
