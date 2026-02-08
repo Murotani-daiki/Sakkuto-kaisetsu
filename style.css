@@ -1153,3 +1153,74 @@ footer p {
         font-size: 0.95rem;
     }
 }
+
+/* HBM Share Chart */
+.share-chart-container {
+    margin: 20px 0 40px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+}
+
+.share-year-section {
+    margin-bottom: 25px;
+}
+
+.share-year-section:last-child {
+    margin-bottom: 0;
+}
+
+.share-year-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: var(--text-color);
+    border-bottom: 1px solid var(--border-color);
+    display: inline-block;
+    padding-bottom: 2px;
+}
+
+.share-row {
+    margin-bottom: 12px;
+}
+
+.share-label-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.share-bar-container {
+    height: 12px;
+    background-color: #eee;
+    border-radius: 6px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.share-bar {
+    height: 100%;
+    border-radius: 6px;
+    transition: width 1s ease-out;
+}
+
+/* Company specific colors */
+.share-bar.sk-hynix {
+    background: linear-gradient(90deg, #ff4d4d, #ff8080);
+}
+
+.share-bar.samsung {
+    background: linear-gradient(90deg, #1a73e8, #4285f4);
+}
+
+.share-bar.micron {
+    background: linear-gradient(90deg, #f7a072, #ffc2d1);
+}
+
+.share-value {
+    color: var(--text-color);
+    font-size: 0.85rem;
+}
