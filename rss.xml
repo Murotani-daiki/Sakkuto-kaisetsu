@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>サクッと銘柄解説ブログ！</title>
+  <link>https://sakutto-kaisetsu.com/</link>
+  <description>米国株・日本株の銘柄をマンガでサクッと解説！投資に役立つ情報を分かりやすく提供します。</description>
+  <language>ja</language>
+  <lastBuildDate>Mon, 09 Feb 2026 22:45:00 +0900</lastBuildDate>
+  <atom:link href="https://sakutto-kaisetsu.com/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>東京エレクトロン(Tokyo Electron)ってどんな会社？半導体製造装置の巨人をサクッと解説！【8035】</title>
+    <link>https://sakutto-kaisetsu.com/TokyoElectron_article.html</link>
+    <description>前工程装置で世界トップクラスのシェアを誇る東京エレクトロン。AI時代の半導体製造に欠かせない同社の圧倒的な強みと将来性を解説します。</description>
+    <pubDate>Mon, 09 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/TokyoElectron_article.html</guid>
+  </item>
+  <item>
+    <title>止まらないAI投資！世界の天才企業たちと一緒に買いまくれ！直近の決算やニュースを踏まえて昨今のAI事情を一気に解説！</title>
+    <link>https://sakutto-kaisetsu.com/AI_Investment_article.html</link>
+    <description>AI投資の勢いが止まらない！世界のトップ企業たちの動向と、賢い投資戦略について考えます。</description>
+    <pubDate>Sat, 07 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/AI_Investment_article.html</guid>
+  </item>
+  <item>
+    <title>シーゲイト(Seagate)ってどんな会社？AI需要でHDDがまさかの大復活！【STX】</title>
+    <link>https://sakutto-kaisetsu.com/Seagate_article.html</link>
+    <description>AIデータセンターでの「安くて大容量」なストレージ需要を一身に受けるシーゲイト。次世代技術HAMRでHDDの限界を突破する同社の強みを解説。</description>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/Seagate_article.html</guid>
+  </item>
+  <item>
+    <title>サンディスクとウエスタンデジタルってどんな会社？NANDってなに？サクッとマンガで解説！【SNDK】【WDC】</title>
+    <link>https://sakutto-kaisetsu.com/WesternDigital_article.html</link>
+    <description>メモリーカードの代名詞「サンディスク」を傘下に持つウエスタンデジタル。HDDとフラッシュメモリの二刀流で世界を支える同社の実体とは。</description>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/WesternDigital_article.html</guid>
+  </item>
+  <item>
+    <title>クラウドフレア(Cloudflare)ってどんな会社？インターネットを「速く、安全に」するインフラの巨兵！サクッとマンガで解説！【NET】</title>
+    <link>https://sakutto-kaisetsu.com/Cloudflare_article.html</link>
+    <description>世界中の通信を高速化・安全化するクラウドフレア。エッジAI分野での飛躍が期待される同社の強みと将来性を解説。</description>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/Cloudflare_article.html</guid>
+  </item>
+  <item>
+    <title>クラウドストライク(CrowdStrike)ってどんな会社？エンドポイント保護の絶対王者！マンガでサクッと解説！【CRWD】</title>
+    <link>https://sakutto-kaisetsu.com/CrowdStrike_article.html</link>
+    <description>エンドポイントセキュリティの覇者、クラウドストライク。AIを活用した脅威検知や、あらゆるデバイスを保護するFalconプラットフォームの凄さを解説。</description>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/CrowdStrike_article.html</guid>
+  </item>
+  <item>
+    <title>パランティア(Palantir)ってどんな会社？データの力で世界を変えるAIの覇者！サクッとマンガで解説！【PLTR】</title>
+    <link>https://sakutto-kaisetsu.com/Palantir_article.html</link>
+    <description>諜報機関から民間企業まで、「AIによる意思決定」のインフラを提供するパランティア。爆発的普及を遂げるAIP（AIプラットフォーム）の強みを解説。</description>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/Palantir_article.html</guid>
+  </item>
+  <item>
+    <title>マイクロン・テクノロジー(Micron)ってどんな会社？NANDとかDRAMってなに？サクッとマンガで解説！【MU】</title>
+    <link>https://sakutto-kaisetsu.com/Micron_article.html</link>
+    <description>AIサーバーに欠かせない高速メモリ「HBM」で注目を集めるマイクロン。NVIDIAの最先端GPUに採用されるなど、AI時代のメモリ市場での強みを解説。</description>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/Micron_article.html</guid>
+  </item>
+  <item>
+    <title>ブロードコム(Broadcom)ってどんな会社？AI時代の「見えない王者」サクッとマンガで解説！【AVGO】</title>
+    <link>https://sakutto-kaisetsu.com/Broadcom_article.html</link>
+    <description>通信半導体の巨人、ブロードコム。AIデータセンターを支えるネットワーク技術とVMware買収によるソフトウェア戦略の全貌を解説します。</description>
+    <pubDate>Mon, 02 Feb 2026 12:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/Broadcom_article.html</guid>
+  </item>
+  <item>
+    <title>エヌビディア(NVIDIA)ってどんな会社？AI革命を加速させる半導体の覇者！サクッとマンガで解説！【NVDA】</title>
+    <link>https://sakutto-kaisetsu.com/NVIDIA_article.html</link>
+    <description>今や世界で最も注目される企業の一つとなったエヌビディア（NVIDIA）。AI・半導体ブームの中心にいるこの会社がなぜこれほどまでに強いのか、最新の決算と今後の展望をサクッと解説します。</description>
+    <pubDate>Fri, 30 Jan 2026 12:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/NVIDIA_article.html</guid>
+  </item>
+</channel>
+</rss>
