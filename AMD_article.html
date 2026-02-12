@@ -3,6 +3,15 @@
 
 <head>
     <meta charset="UTF-8">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V13BFW7X6Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-V13BFW7X6Z');
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
         content="AMD（アドバンスト・マイクロ・デバイセズ / AMD）ってどんな会社？NVIDIAを猛追するAI半導体の「No.2」。Instinct MI300シリーズやサーバー向けCPU「EPYC」の強みをサクッと解説。">
@@ -135,16 +144,21 @@
                     </p>
                     <h3>他社とのつながり</h3>
                     <p><strong class="highlight">Microsoft：ROCmの共同開発パートナー</strong></p>
-                    <p>Microsoft Azureは、AMDのInstinctシリーズを積極採用しています。AzureのAIクラスタにMI300シリーズを導入し、ROCmの最適化をMicrosoftと共同で推進しています。「NVIDIA一強」を崩すための戦略的パートナーであり、AzureのAI投資＝AMDのGPU需要増という構図ができています。</p>
+                    <p>Microsoft
+                        Azureは、AMDのInstinctシリーズを積極採用しています。AzureのAIクラスタにMI300シリーズを導入し、ROCmの最適化をMicrosoftと共同で推進しています。「NVIDIA一強」を崩すための戦略的パートナーであり、AzureのAI投資＝AMDのGPU需要増という構図ができています。
+                    </p>
                     <p><strong class="highlight">Meta：ROCm採用を後押しする巨大顧客</strong></p>
                     <p>Metaは自社AIモデル（Llama）をAMD GPUでも動かせるように最適化を進めています。LlamaはROCm対応しており
                         、MI300シリーズが大規模採用されています。また、オープンソースAIとの相性も良いです。MetaのAI投資が続く限り、AMDの存在感はさらに高まります。</p>
                     <p><strong class="highlight">Amazon（AWS）：自社チップと併用される“セカンドソース”</strong></p>
-                    <p>AWSは自社AIチップ（Trainium・Inferentia）を持っていますが、依然としてAMDのGPU・CPUも重要な選択肢です。AI学習クラスタにMI300を採用しており、EPYC搭載インスタンスが人気です。自社チップとAMDの“ハイブリッド構成”が増加しています。AWSのAIインフラ拡大はAMDにとっても追い風です。</p>
+                    <p>AWSは自社AIチップ（Trainium・Inferentia）を持っていますが、依然としてAMDのGPU・CPUも重要な選択肢です。AI学習クラスタにMI300を採用しており、EPYC搭載インスタンスが人気です。自社チップとAMDの“ハイブリッド構成”が増加しています。AWSのAIインフラ拡大はAMDにとっても追い風です。
+                    </p>
                     <p><strong class="highlight">Google：TPUと競合しつつも協業</strong></p>
-                    <p>GoogleはTPUを持っていますが、研究用途やクラウド用途ではAMD GPUも使われています。ROCmの最適化をGoogleと共同で推進していて、Google CloudでMI300インスタンス提供しています。TPUとGPUの“使い分け”が進んでいます。競合しつつも、AI市場の拡大を一緒に押し上げる関係です。</p>
+                    <p>GoogleはTPUを持っていますが、研究用途やクラウド用途ではAMD GPUも使われています。ROCmの最適化をGoogleと共同で推進していて、Google
+                        CloudでMI300インスタンス提供しています。TPUとGPUの“使い分け”が進んでいます。競合しつつも、AI市場の拡大を一緒に押し上げる関係です。</p>
                     <p><strong class="highlight">TSMC：AMDの製造を担う最重要パートナー</strong></p>
-                    <p>AMDは自社工場を持たないため、GPU・CPUの製造はほぼすべてTSMCに依存しています。MI300シリーズはTSMCの先端プロセスで製造していて、供給制約のボトルネックにもなる可能性があります。TSMCの技術力がAMDの競争力を支えています。NVIDIAと同じく、TSMCのキャパシティがAMDの成長速度を左右します。</p>
+                    <p>AMDは自社工場を持たないため、GPU・CPUの製造はほぼすべてTSMCに依存しています。MI300シリーズはTSMCの先端プロセスで製造していて、供給制約のボトルネックにもなる可能性があります。TSMCの技術力がAMDの競争力を支えています。NVIDIAと同じく、TSMCのキャパシティがAMDの成長速度を左右します。
+                    </p>
 
                     <h3>今後の注目ポイント</h3>
                     <div class="focus-points">
