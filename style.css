@@ -23,6 +23,7 @@
     padding: 0;
 }
 
+
 body {
     font-family: var(--font-family);
     color: var(--text-color);
@@ -30,6 +31,15 @@ body {
     background-color: var(--bg-color);
     position: relative;
     min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    scroll-margin-top: 100px;
 }
 
 body::before {

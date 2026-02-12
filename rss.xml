@@ -5,8 +5,15 @@
   <link>https://sakutto-kaisetsu.com/</link>
   <description>米国株・日本株の銘柄をマンガでサクッと解説！投資に役立つ情報を分かりやすく提供します。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Feb 2026 01:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 22:15:00 +0900</lastBuildDate>
   <atom:link href="https://sakutto-kaisetsu.com/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>【前編】半導体づくりの各工程における関連銘柄総まとめ！設計からエッチングまで</title>
+    <link>https://sakutto-kaisetsu.com/Semiconductor_Process_Part1_article.html</link>
+    <description>複雑な半導体製造プロセスと、それぞれの工程で世界をリードする主要銘柄を分かりやすく解説。設計から前工程の重要プロセスを網羅しました。</description>
+    <pubDate>Wed, 11 Feb 2026 22:15:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/Semiconductor_Process_Part1_article.html</guid>
+  </item>
   <item>
     <title>【AMD】アドバンスト・マイクロ・デバイセズってどんな会社？NVIDIAを猛追するAI半導体の「No.2」！サクッと解説！</title>
     <link>https://sakutto-kaisetsu.com/AMD_article.html</link>
