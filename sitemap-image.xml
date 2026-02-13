@@ -979,27 +979,4 @@
       <image:title>サンディスクとウェスタンデジタル ってどんな会社？ HDDからAI用メモリまで、記憶の覇権を握る！サクッとマンガで解説！</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://sakutto-kaisetsu.com/ポート.html</loc>
-    <image:image>
-      <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
-      <image:caption>SanDisk</image:caption>
-    </image:image>
-  </url>
 </urlset>
