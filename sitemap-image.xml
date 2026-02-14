@@ -1,30 +1,73 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://sakutto-kaisetsu.com/AI_Datacenter_Part1_article.html</loc>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part1.webp</image:loc>
+      <image:caption>AIデータセンター建設のイメージ図</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
+      <image:caption>半導体製造プロセス解説（ウエハー製造編）のサムネイル</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
+      <image:caption>フジクラの銘柄解説記事のサムネイル</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
+      <image:caption>サンディスク(SanDisk)の銘柄解説</image:caption>
+      <image:title>AIデータセンター関連銘柄と建設工程総まとめ！ 【前編】企画・準備段階の注目株を解説</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://sakutto-kaisetsu.com/AI_Investment_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AI_Investment_1.webp</image:loc>
-      <image:caption>止まらないAI投資</image:caption>
+      <image:caption>巨額のAI投資について解説する記事のサムネイル</image:caption>
       <image:title>止まらないAI投資！ 世界の天才企業たちと一緒に買いまくれ！ 直近の決算やニュースを踏まえて昨今のAI事情を一気に解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>止まらないAI投資！ 世界の天才企業たちと一緒に買いまくれ！ 直近の決算やニュースを踏まえて昨今のAI事情を一気に解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>止まらないAI投資！ 世界の天才企業たちと一緒に買いまくれ！ 直近の決算やニュースを踏まえて昨今のAI事情を一気に解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>止まらないAI投資！ 世界の天才企業たちと一緒に買いまくれ！ 直近の決算やニュースを踏まえて昨今のAI事情を一気に解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>止まらないAI投資！ 世界の天才企業たちと一緒に買いまくれ！ 直近の決算やニュースを踏まえて昨今のAI事情を一気に解説！</image:title>
     </image:image>
     <image:image>
@@ -37,62 +80,62 @@
     <loc>https://sakutto-kaisetsu.com/AMD_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_1.webp</image:loc>
-      <image:caption>AMD解説</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の事業内容と将来性を解説する特選マンガ</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_2.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガ 2ページ目</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_3.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガ 3ページ目</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_4.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガ 4ページ目</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_5.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガ 5ページ目</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_6.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガ 6ページ目</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_7.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガ 7ページ目</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>AVGO</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_1.webp</image:loc>
-      <image:caption>Tokyo Electron</image:caption>
+      <image:caption>東京エレクトロン(TEL)の銘柄解説</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
-      <image:caption>フジクラ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説</image:caption>
       <image:title>NVIDIAを猛追するAI半導体の「No.2」！ AMDってどんな会社？ Instinct MI300とEPYCの強み【AMD】</image:title>
     </image:image>
   </url>
@@ -100,57 +143,57 @@
     <loc>https://sakutto-kaisetsu.com/Broadcom_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>ブロードコム解説</image:caption>
+      <image:caption>ブロードコム(Broadcom)の事業内容と将来性を解説する特選マンガ</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_2.webp</image:loc>
-      <image:caption>ブロードコム解説マンガ2</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説マンガ 2ページ目</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_3.webp</image:loc>
-      <image:caption>ブロードコム解説マンガ3</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説マンガ 3ページ目</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_4.webp</image:loc>
-      <image:caption>ブロードコム解説マンガ4</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説マンガ 4ページ目</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_5.webp</image:loc>
-      <image:caption>ブロードコム解説マンガ5</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説マンガ 5ページ目</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_6.webp</image:loc>
-      <image:caption>ブロードコム解説マンガ6</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説マンガ 6ページ目</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_7.webp</image:loc>
-      <image:caption>ブロードコム解説マンガ7</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説マンガ 7ページ目</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
-      <image:caption>SanDisk</image:caption>
+      <image:caption>サンディスク(SanDisk)の銘柄解説</image:caption>
       <image:title>ブロードコム(Broadcom)ってどんな会社？ AI時代の「見えない王者」 サクッとマンガで解説！【AVGO】</image:title>
     </image:image>
   </url>
@@ -163,57 +206,57 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NET_2.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>クラウドフレア(Cloudflare)の銘柄解説マンガ 2ページ目</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NET_3.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>クラウドフレア(Cloudflare)の銘柄解説マンガ 3ページ目</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NET_4.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>クラウドフレア(Cloudflare)の銘柄解説マンガ 4ページ目</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NET_5.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>クラウドフレア(Cloudflare)の銘柄解説マンガ 5ページ目</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NET_6.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>クラウドフレア(Cloudflare)の銘柄解説マンガ 6ページ目</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NET_7.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>クラウドフレア(Cloudflare)の銘柄解説マンガ 7ページ目</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
-      <image:caption>SanDisk</image:caption>
+      <image:caption>サンディスク(SanDisk)の銘柄解説</image:caption>
       <image:title>クラウドフレア(Cloudflare)ってどんな会社？ インターネットを「速く、安全に」するインフラの巨兵！マンガでサクッと解説！【NET】</image:title>
     </image:image>
   </url>
@@ -246,22 +289,22 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>クラウドストライク(CrowdStrike) ってどんな会社？ エンドポイント保護の絶対王者！ マンガでサクッと解説！【CRWD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>クラウドストライク(CrowdStrike) ってどんな会社？ エンドポイント保護の絶対王者！ マンガでサクッと解説！【CRWD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>クラウドストライク(CrowdStrike) ってどんな会社？ エンドポイント保護の絶対王者！ マンガでサクッと解説！【CRWD】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>クラウドストライク(CrowdStrike) ってどんな会社？ エンドポイント保護の絶対王者！ マンガでサクッと解説！【CRWD】</image:title>
     </image:image>
     <image:image>
@@ -274,126 +317,136 @@
     <loc>https://sakutto-kaisetsu.com/Fujikura_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
-      <image:caption>フジクラ特選マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の光ファイバー事業と株価を解説する特選マンガ</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_2.webp</image:loc>
-      <image:caption>フジクラ解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガ 2ページ目</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_3.webp</image:loc>
-      <image:caption>フジクラ解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガ 3ページ目</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_4.webp</image:loc>
-      <image:caption>フジクラ解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガ 4ページ目</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_5.webp</image:loc>
-      <image:caption>フジクラ解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガ 5ページ目</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_6.webp</image:loc>
-      <image:caption>フジクラ解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガ 6ページ目</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_7.webp</image:loc>
-      <image:caption>フジクラ解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガ 7ページ目</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_1.webp</image:loc>
-      <image:caption>Tokyo Electron</image:caption>
+      <image:caption>東京エレクトロン(Tokyo Electron)の銘柄解説</image:caption>
+      <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
+      <image:caption>半導体製造プロセス解説（ウエハー製造編）のサムネイル</image:caption>
+      <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>フジクラってどんな会社？ データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！ AI需要で大化けした老舗の底力【5803】</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://sakutto-kaisetsu.com/index.html</loc>
     <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part1.webp</image:loc>
+      <image:caption>AIデータセンター関連銘柄と建設工程解説のサムネイル</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
-      <image:caption>半導体で一番儲かる工程はどこ？</image:caption>
+      <image:caption>半導体業界の利益率ランキング解説記事のサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part3.webp</image:loc>
-      <image:caption>半導体プロセス解説</image:caption>
+      <image:caption>半導体製造プロセス解説（後工程編）のサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part2.webp</image:loc>
-      <image:caption>半導体プロセス解説</image:caption>
+      <image:caption>半導体製造プロセス解説（前工程・リソグラフィ編）のサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
-      <image:caption>半導体プロセス解説</image:caption>
+      <image:caption>半導体製造プロセス解説（設計・ウェハ製造編）のサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_1.webp</image:loc>
-      <image:caption>AMD解説マンガ</image:caption>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説マンガのサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
-      <image:caption>FUJI解説マンガ</image:caption>
+      <image:caption>フジクラ(Fujikura)の銘柄解説マンガのサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_1.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(TEL)の銘柄解説マンガのサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AI_Investment_1.webp</image:loc>
-      <image:caption>AI投資解説</image:caption>
+      <image:caption>世界のAI投資・天才企業解説記事のサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/STX_1.webp</image:loc>
-      <image:caption>STX解説</image:caption>
+      <image:caption>シーゲイト(Seagate)の銘柄解説記事のサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
-      <image:caption>SNDK解説マンガ</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://sakutto-kaisetsu.com/img/NET_SAMUNE.webp</image:loc>
-      <image:caption>NET解説マンガ</image:caption>
+      <image:caption>サンディスク(SanDisk)の銘柄解説マンガのサムネイル</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
     </image:image>
   </url>
   <url>
@@ -435,17 +488,17 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>マイクロン・テクノロジーってどんな会社？NANDとかDRAMってなに？ サクッとマンガで解説！【MU】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>マイクロン・テクノロジーってどんな会社？NANDとかDRAMってなに？ サクッとマンガで解説！【MU】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>マイクロン・テクノロジーってどんな会社？NANDとかDRAMってなに？ サクッとマンガで解説！【MU】</image:title>
     </image:image>
     <image:image>
@@ -458,57 +511,57 @@
     <loc>https://sakutto-kaisetsu.com/NVIDIA_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA特選マンガ</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の事業内容と将来性を解説する特選マンガ</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_2.webp</image:loc>
-      <image:caption>NVIDIA解説マンガ2</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説マンガ 2ページ目</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_3.webp</image:loc>
-      <image:caption>NVIDIA解説マンガ3</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説マンガ 3ページ目</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_4.webp</image:loc>
-      <image:caption>NVIDIA解説マンガ4</image:caption>
+      <image:caption>エヌビディア(NVIDIA)의 銘柄解説マンガ 4ページ目</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_5.webp</image:loc>
-      <image:caption>NVIDIA解説マンガ5</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説マンガ 5ページ目</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_6.webp</image:loc>
-      <image:caption>NVIDIA解説マンガ6</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説マンガ 6ページ目</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_7.webp</image:loc>
-      <image:caption>NVIDIA解説マンガ7</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説マンガ 7ページ目</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
-      <image:caption>SanDisk</image:caption>
+      <image:caption>サンディスク(SanDisk)の銘柄解説</image:caption>
       <image:title>エヌビディア(NVIDIA)ってどんな会社？ AI革命を加速させる半導体の覇者！ サクッとマンガで解説！【NVDA】</image:title>
     </image:image>
   </url>
@@ -551,17 +604,17 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>パランティア(Palantir)ってどんな会社？ データの力で世界を変えるAIの覇者！ サクッとマンガで解説！【PLTR】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>パランティア(Palantir)ってどんな会社？ データの力で世界を変えるAIの覇者！ サクッとマンガで解説！【PLTR】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>パランティア(Palantir)ってどんな会社？ データの力で世界を変えるAIの覇者！ サクッとマンガで解説！【PLTR】</image:title>
     </image:image>
     <image:image>
@@ -574,22 +627,22 @@
     <loc>https://sakutto-kaisetsu.com/per_forecast.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>米国株の予想PER一覧（コンセンサスベース）</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>米国株の予想PER一覧（コンセンサスベース）</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>米国株の予想PER一覧（コンセンサスベース）</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>米国株の予想PER一覧（コンセンサスベース）</image:title>
     </image:image>
     <image:image>
@@ -637,22 +690,22 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>シーゲイト・テクノロジーってどんな会社？ AI需要でHDDがまさかの大復活！ サクッとマンガで解説！【STX】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>シーゲイト・テクノロジーってどんな会社？ AI需要でHDDがまさかの大復活！ サクッとマンガで解説！【STX】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>シーゲイト・テクノロジーってどんな会社？ AI需要でHDDがまさかの大復活！ サクッとマンガで解説！【STX】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>シーゲイト・テクノロジーってどんな会社？ AI需要でHDDがまさかの大復活！ サクッとマンガで解説！【STX】</image:title>
     </image:image>
     <image:image>
@@ -695,22 +748,22 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>【前編】半導体づくりの各工程と関連銘柄総まとめ！ 前編：設計から露光まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>【前編】半導体づくりの各工程と関連銘柄総まとめ！ 前編：設計から露光まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>【前編】半導体づくりの各工程と関連銘柄総まとめ！ 前編：設計から露光まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>【前編】半導体づくりの各工程と関連銘柄総まとめ！ 前編：設計から露光まで</image:title>
     </image:image>
     <image:image>
@@ -723,47 +776,47 @@
     <loc>https://sakutto-kaisetsu.com/Semiconductor_Process_Part2_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part2.webp</image:loc>
-      <image:caption>半導体プロセス解説</image:caption>
+      <image:caption>半導体製造プロセス解説（前工程・リソグラフィ編）のサムネイル</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
-      <image:caption>半導体づくりの工程と関連銘柄まとめ【中編】</image:caption>
+      <image:caption>半導体づくりの工程と関連銘柄まとめ【前編】のサムネイル</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part3.webp</image:loc>
-      <image:caption>半導体プロセス解説</image:caption>
+      <image:caption>半導体製造プロセス解説（後工程編）のサムネイル</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
-      <image:caption>半導体で一番儲かる工程はどこ？</image:caption>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_1.webp</image:loc>
-      <image:caption>東京エレクトロン</image:caption>
+      <image:caption>東京エレクトロン(Tokyo Electron)の銘柄解説</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>エヌビディア</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_1.webp</image:loc>
-      <image:caption>AMD</image:caption>
+      <image:caption>AMDのAI戦略と銘柄解説</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>【中編】半導体づくりの各工程と関連銘柄総まとめ！ 洗浄・CMPから後工程の入口まで</image:title>
     </image:image>
   </url>
@@ -771,52 +824,52 @@
     <loc>https://sakutto-kaisetsu.com/Semiconductor_Process_Part3_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part3.webp</image:loc>
-      <image:caption>半導体プロセス解説</image:caption>
+      <image:caption>半導体製造プロセス解説（後工程・パッケージング編）のサムネイル</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part2.webp</image:loc>
-      <image:caption>半導体づくりの工程と関連銘柄まとめ【中編】</image:caption>
+      <image:caption>半導体づくりの工程と関連銘柄まとめ【中編】のサムネイル</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/semiconducter-gotten.webp</image:loc>
-      <image:caption>半導体工程・前編</image:caption>
+      <image:caption>半導体工程シリーズ完読おつかれさまイラスト</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
-      <image:caption>半導体で一番儲かる工程はどこ？</image:caption>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
-      <image:caption>半導体工程・前編</image:caption>
+      <image:caption>半導体製造プロセス解説（ウエハー製造編）のサムネイル</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_1.webp</image:loc>
-      <image:caption>東京エレクトロン</image:caption>
+      <image:caption>東京エレクトロン(Tokyo Electron)の銘柄解説</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>エヌビディア</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AMD_1.webp</image:loc>
-      <image:caption>AMD</image:caption>
+      <image:caption>AMDのAI戦略と銘柄解説</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>【後編】半導体づくりの各工程と関連銘柄総まとめ！ 後編：パッケージングから最終工程まで</image:title>
     </image:image>
   </url>
@@ -844,17 +897,17 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>半導体で一番儲かる工程はどこ？ 利益率ランキングで徹底解説</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>半導体で一番儲かる工程はどこ？ 利益率ランキングで徹底解説</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>半導体で一番儲かる工程はどこ？ 利益率ランキングで徹底解説</image:title>
     </image:image>
   </url>
@@ -862,57 +915,72 @@
     <loc>https://sakutto-kaisetsu.com/TokyoElectron_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_1.webp</image:loc>
-      <image:caption>TEL特選マンガ</image:caption>
+      <image:caption>東京エレクトロンの銘柄解説記事のサムネイル</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_2.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(8035)の銘柄解説マンガ2</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_3.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(8035)の銘柄解説マンガ3</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_4.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(8035)の銘柄解説マンガ4</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_5.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(8035)の銘柄解説マンガ5</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_6.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(8035)の銘柄解説マンガ6</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/TEL_7.webp</image:loc>
-      <image:caption>TEL解説マンガ</image:caption>
+      <image:caption>東京エレクトロン(8035)の銘柄解説マンガ7</image:caption>
+      <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
+      <image:caption>半導体製造プロセス解説（ウエハー製造編）のサムネイル</image:caption>
+      <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
+      <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
+      <image:caption>フジクラの銘柄解説記事のサムネイル</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
     </image:image>
     <image:image>
@@ -960,22 +1028,22 @@
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
-      <image:caption>NVIDIA</image:caption>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
       <image:title>サンディスクとウェスタンデジタル ってどんな会社？ HDDからAI用メモリまで、記憶の覇権を握る！サクッとマンガで解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
-      <image:caption>Broadcom</image:caption>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
       <image:title>サンディスクとウェスタンデジタル ってどんな会社？ HDDからAI用メモリまで、記憶の覇権を握る！サクッとマンガで解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/MU_1.webp</image:loc>
-      <image:caption>Micron</image:caption>
+      <image:caption>マイクロン(Micron)の銘柄解説</image:caption>
       <image:title>サンディスクとウェスタンデジタル ってどんな会社？ HDDからAI用メモリまで、記憶の覇権を握る！サクッとマンガで解説！</image:title>
     </image:image>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
-      <image:caption>Palantir</image:caption>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
       <image:title>サンディスクとウェスタンデジタル ってどんな会社？ HDDからAI用メモリまで、記憶の覇権を握る！サクッとマンガで解説！</image:title>
     </image:image>
   </url>
