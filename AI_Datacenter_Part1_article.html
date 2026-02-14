@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V13BFW7X6Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-V13BFW7X6Z');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="AIデータセンター建設の全工程を5段階で解説！前編では「用地選定」と「設計」の注目銘柄（NTT、ソフトバンク、さくらインターネット等）、地域別の開発動向をサクッと解説します。">
+    <title>AIデータセンター関連銘柄と建設工程総まとめ！【前編】企画・準備段階の注目株を解説 - サクッと銘柄解説ブログ！</title>
+    <link rel="icon" href="logo.webp" type="image/webp">
+    <link rel="stylesheet" href="style.css">
+    <link rel="canonical" href="https://sakutto-kaisetsu.com/AI_Datacenter_Part1_article.html">
+    <link rel="alternate" type="application/rss+xml" title="サクッと銘柄解説ブログ！ RSS Feed"
+        href="https://sakutto-kaisetsu.com/rss.xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        .toc {
+            background-color: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+        }
+
+        .toc-title {
+            font-weight: 700;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .toc ul ul {
+            padding-left: 20px;
+            margin-top: 5px;
+        }
+
+        .toc li {
+            margin-bottom: 8px;
+        }
+
+        .toc a {
+            color: #555;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .toc a:hover {
+            color: var(--primary-color);
+            text-decoration: underline;
+        }
+
+        .process-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .process-table th,
+        .process-table td {
+            border: 1px solid #eee;
+            padding: 12px;
+            text-align: left;
+        }
+
+        .process-table th {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .process-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .highlight-card {
+            background: linear-gradient(135deg, #fff 0%, #fff4f0 100%);
+            border-left: 5px solid var(--primary-color);
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .stock-tag {
+            display: inline-block;
+            background: #333;
+            color: #fff;
+            padding: 1px 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-left: 5px;
+        }
+
+        .rating {
+            color: #ff9800;
+            font-weight: bold;
+        }
+
+        .stock-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .stock-table th,
+        .stock-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .stock-table th {
+            background-color: #f8f9fa;
+            font-weight: 700;
+            color: #333;
+            width: 30%;
+        }
+
+        .stock-table tr:last-child th,
+        .stock-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .stock-table .ticker {
+            font-size: 0.85rem;
+            color: #666;
+            margin-left: 5px;
+        }
+
+        @media (max-width: 600px) {
+
+            .stock-table th,
+            .stock-table td {
+                display: block;
+                width: 100%;
+            }
+
+            .stock-table th {
+                background-color: #f1f4f9;
+                padding-bottom: 5px;
+            }
+
+            .stock-table td {
+                padding-top: 5px;
+                margin-bottom: 10px;
+            }
+        }
+
+        /* Region Cards Layout */
+        .region-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .region-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #f0f0f0;
+            transition: all 0.3s ease;
+        }
+
+        .region-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .region-card.hokkaido {
+            border-top: 6px solid #a2d2ff;
+        }
+
+        .region-card.kansai {
+            border-top: 6px solid #f7a072;
+        }
+
+        .region-card.kanto {
+            border-top: 6px solid #333;
+        }
+
+        .region-card h4 {
+            font-size: 1.25rem;
+            margin-top: 0;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #333;
+        }
+
+        .region-card p {
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+            color: #555;
+            line-height: 1.6;
+            flex-grow: 1;
+        }
+
+        .region-tag-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: auto;
+        }
+
+        .region-stock-tag {
+            background: #f0f2f5;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #444;
+        }
+
+        @media (max-width: 768px) {
+            .region-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="logo.webp" alt="サクッと銘柄解説ブログ！のロゴ" class="logo-img">
+                サクッと銘柄解説ブログ！
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="per_forecast.html">予想PER一覧</a></li>
+                </ul>
+            </nav>
+            <form action="search.html" method="get" class="search-form">
+                <input type="text" placeholder="キーワード検索..." name="search" class="search-input">
+                <button type="submit" class="search-button">🔍</button>
+            </form>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="content-wrapper">
+            <div class="main-content article-content">
+                <div class="article-header">
+                    <a href="search.html?search=銘柄解説" class="category analysis">銘柄解説</a>
+                    <a href="search.html?search=AI" class="category">AI</a>
+                    <h1>AIデータセンター関連銘柄と建設工程総まとめ！<br>【前編】企画・準備段階の注目株を解説</h1>
+                    <div class="post-meta">
+                        <span class="date">2026.02.14</span>
+                        <span class="read-time"> この記事は8分で読めます</span>
+                    </div>
+                </div>
+
+                <div class="article-body">
+                    <div class="featured-image">
+                        <img src="img/AI_datacenter_part1.webp" alt="AIデータセンター建設のイメージ図" class="main-featured-img">
+                    </div>
+
+                    <p>2026年現在、<strong
+                            class="highlight">AIデータセンター関連銘柄</strong>への投資が大きな注目を集めています。生成AIの爆発的な普及により、国内データセンター市場は2027年までに<strong>4兆1,862億円</strong>規模へと倍増する見通しです。
+                    </p>
+
+                    <p>本記事では、AIデータセンターの建設工程を5段階に分けて解説し、各段階で利益を得る関連銘柄を詳しく紹介します。前編では、<strong>第1段階（用地選定）</strong>と<strong>第2段階（設計）</strong>に焦点を当て、この段階で注目すべき投資先を明らかにします。
+                    </p>
+
+                    <div class="toc">
+                        <div class="toc-title">🔍 目次</div>
+                        <ul>
+                            <li><a href="#section1">1. AIデータセンター建設の全体像</a></li>
+                            <li><a href="#section2">2. 第1段階：用地選定・取得（関連銘柄：運営・不動産）</a></li>
+                            <li><a href="#section3">3. 第2段階：設計・仕様決定（関連銘柄：ゼネコン・SIer）</a></li>
+                            <li><a href="#section4">4. 地域別データセンター開発動向</a></li>
+                            <li><a href="#summary">5. まとめ：企画・準備段階の投資戦略</a></li>
+                        </ul>
+                    </div>
+
+                    <h2 id="section1">1. AIデータセンター建設の全体像</h2>
+                    <p>AIデータセンターの建設は、プロジェクト開始から稼働まで<strong>通常24〜36ヶ月</strong>を要します。工程は大きく5つに分けられます。</p>
+
+                    <table class="process-table">
+                        <thead>
+                            <tr>
+                                <th>段階</th>
+                                <th>工程名</th>
+                                <th>期間</th>
+                                <th>主な関連業種</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>第1段階</td>
+                                <td>用地選定・取得</td>
+                                <td>0〜6ヶ月</td>
+                                <td>データセンター運営、不動産</td>
+                            </tr>
+                            <tr>
+                                <td>第2段階</td>
+                                <td>設計・仕様決定</td>
+                                <td>3〜6ヶ月</td>
+                                <td>ゼネコン、SIer</td>
+                            </tr>
+                            <tr>
+                                <td>第3段階</td>
+                                <td>建設工事</td>
+                                <td>12〜24ヶ月</td>
+                                <td>建設、設備工事</td>
+                            </tr>
+                            <tr>
+                                <td>第4段階</td>
+                                <td>IT設備導入</td>
+                                <td>6〜12ヶ月</td>
+                                <td>半導体、通信機器</td>
+                            </tr>
+                            <tr>
+                                <td>第5段階</td>
+                                <td>試運転・稼働</td>
+                                <td>3〜6ヶ月</td>
+                                <td>システム運用</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h2 id="section2">2. 第1段階：用地選定・取得（0〜6ヶ月）</h2>
+                    <p>AIデータセンターの用地選定は、プロジェクトの成否を左右する最重要工程です。特にAI用は、従来型よりも<strong
+                            class="highlight">3〜5倍の電力</strong>が必要となるため、供給能力が極めて重視されます。</p>
+
+                    <h3>用地選定の必須条件</h3>
+                    <ul>
+                        <li><strong>電力供給の安定性：</strong> 数百MW規模の電力を確保できるか</li>
+                        <li><strong>災害リスク：</strong> 地盤の強固さ、浸水リスクの低さ</li>
+                        <li><strong>通信インフラ：</strong> データ消費地に近く、低レイテンシであること</li>
+                    </ul>
+
+                    <div class="info-card">
+                        <div class="info-card-title">🏢 第1段階の注目銘柄：データセンター運営</div>
+                        <table class="stock-table">
+                            <tr>
+                                <th>ソフトバンク<br><span class="ticker">[9434]</span> <span class="rating">★★★★★</span></th>
+                                <td>シャープ堺工場跡地や苫小牧市で国内最大級の施設を建設中。2026年の稼働開始により、短期的な業績貢献が期待できます。</td>
+                            </tr>
+                            <tr>
+                                <th>NTT<br><span class="ticker">[9432]</span> <span class="rating">★★★★★</span></th>
+                                <td>グローバルシェア第3位。京阪奈エリアで大規模投資を行うほか、次世代ネットワーク「IOWN」による省エネ化も推進。</td>
+                            </tr>
+                            <tr>
+                                <th>さくらインターネット<br><span class="ticker">[3778]</span> <span class="rating">★★★★</span>
+                                </th>
+                                <td>石狩データセンターにGPUを大量配備。冷涼な気候を活かした高い電力効率（PUE 1.1台）が強みです。</td>
+                            </tr>
+                            <tr>
+                                <th>三菱商事<br><span class="ticker">[8058]</span> <span class="rating">★★★</span></th>
+                                <td>JFEと共同で製鉄所跡地をデータセンターに転用するなど、大規模用地開発に強み。</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <h2 id="section3">3. 第2段階：設計・仕様決定（3〜6ヶ月）</h2>
+                    <p>この段階では、AIワークロードに特化した詳細設計を行います。特に<strong
+                            class="highlight">「液冷（リキッドクーリング）」</strong>への対応が2026年の大きなトレンドです。</p>
+
+                    <h3>設計の4大重要要素</h3>
+                    <ol>
+                        <li><strong>構造設計：</strong> 水冷設備や重いGPUラックを支えるための高い床耐荷重性能。</li>
+                        <li><strong>電力設備：</strong> 総コストの30〜40%を占める大容量の電源・自家発電設備。</li>
+                        <li><strong>冷却システム：</strong> 従来比3倍以上の冷却効率を持つ液浸冷却の導入。</li>
+                        <li><strong>セキュリティ：</strong> 物理的防御と電磁シールド等のデータ保護。</li>
+                    </ol>
+
+                    <div class="info-card">
+                        <div class="info-card-title">🏗️ 第2段階の注目銘柄：ゼネコン・SIer</div>
+                        <table class="stock-table">
+                            <tr>
+                                <th>大成建設<br><span class="ticker">[1801]</span> <span class="rating">★★★★</span></th>
+                                <td>免震技術「T-iROBO」に強み。データセンター建設の実績は国内トップクラスです。</td>
+                            </tr>
+                            <tr>
+                                <th>鹿島建設<br><span class="ticker">[1812]</span> <span class="rating">★★★★</span></th>
+                                <td>専門チームによる一貫施工と、高い省エネ設計ノウハウを蓄積しています。</td>
+                            </tr>
+
+                            <tr>
+                                <th>NEC / 富士通<br><span class="ticker">[6701/6702]</span> <span
+                                        class="rating">★★★★</span></th>
+                                <td>スパコン「富岳」等の技術を活かしたサーバー供給と、垂直統合型のソリューションを提供。</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <h2 id="section4">4. 地域別データセンター開発動向</h2>
+                    <div class="region-grid">
+                        <!-- 北海道 -->
+                        <div class="region-card hokkaido">
+                            <h4>❄️ 北海道（石狩・苫小牧）</h4>
+                            <p><strong>特徴：</strong> 冷涼な気候を活かした「自然冷却」により、冷却コストを約70%削減可能。再生可能エネルギーの宝庫で、CO2排出ゼロの運営にも適しています。
+                            </p>
+                            <div class="region-tag-list">
+                                <span class="region-stock-tag">ソフトバンク [9434]</span>
+                                <span class="region-stock-tag">さくらインターネット [3778]</span>
+                                <span class="region-stock-tag">北海道電力 [9509]</span>
+                            </div>
+                        </div>
+
+                        <!-- 関西 -->
+                        <div class="region-card kansai">
+                            <h4>🏯 関西圏（京都・大阪・奈良）</h4>
+                            <p><strong>特徴：</strong> 東京一極集中のリスクを分散する「BCP対策」の筆頭候補。地震リスクが比較的低く、関西電力による安定した電力供給が強みです。</p>
+                            <div class="region-tag-list">
+                                <span class="region-stock-tag">NTT [9432]</span>
+                                <span class="region-stock-tag">データセクション [3905]</span>
+                                <span class="region-stock-tag">関西電力 [9503]</span>
+                                <span class="region-stock-tag">きんでん [1944]</span>
+                            </div>
+                        </div>
+
+                        <!-- 関東 -->
+                        <div class="region-card kanto">
+                            <h4>🏙️ 関東圏（千葉・東京近郊）</h4>
+                            <p><strong>特徴：</strong> 既存のサーバー集積地。データ消費地に近く「低レイテンシ」が最大の武器。一方で、地価高騰や電力逼迫への対策が急務となっています。</p>
+                            <div class="region-tag-list">
+                                <span class="region-stock-tag">東京電力HD [9501]</span>
+                                <span class="region-stock-tag">関電工 [1942]</span>
+                                <span class="region-stock-tag">NTTデータ [9613]</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <h2 id="summary">5. まとめ：企画・準備段階の投資戦略</h2>
+                    <div class="summary-box">
+                        <h3>✅ 投資のポイント</h3>
+                        <ul>
+                            <li><strong>第1段階：</strong> プロジェクト発表時の「運営企業」が狙い目（ソフトバンク、NTTなど）</li>
+                            <li><strong>第2段階：</strong> 設計実績のある「ゼネコン」や、GPU調達に強い「SIer」に注目</li>
+                            <li><strong>地域性：</strong> 冷却効率を重視するなら「北海道」、リスク分散なら「関西」の関連株</li>
+                        </ul>
+                    </div>
+
+                    <div class="highlight-card"
+                        style="margin-top: 30px; border-left-color: #ff9800; background: #fffaf0;">
+                        <h4>🚀 次回告知：中編「建設工事編」</h4>
+                        <p>次回は、最も多くの企業が関わり、投資機会が最大化する<strong>第3段階：建設工事</strong>を深掘りします。電気設備、空調冷却、建築資材の注目株を一挙公開予定です！</p>
+                        <p style="text-align: right; font-weight: bold;">▶ 中編へ続く（近日公開）</p>
+                    </div>
+
+                </div>
+
+                <div class="article-footer">
+                    <a href="index.html" class="back-link">一覧に戻る</a>
+                </div>
+
+                <section class="related-posts">
+                    <h2 class="section-title">おすすめの関連記事</h2>
+                    <div class="related-grid">
+                        <article class="post-card mini">
+                            <div class="post-image-placeholder"></div>
+                            <div class="post-content">
+                                <a href="search.html?search=半導体" class="category">半導体</a>
+                                <h3><a href="NVIDIA_article.html">【NVDA】エヌビディア：AIの絶対王者</a></h3>
+                            </div>
+                        </article>
+                        <article class="post-card mini">
+                            <div class="post-image-placeholder"></div>
+                            <div class="post-content">
+                                <a href="search.html?search=半導体" class="category">半導体</a>
+                                <h3><a href="Broadcom_article.html">【AVGO】ブロードコム：AIネットワーキングの要</a></h3>
+                            </div>
+                        </article>
+                        <article class="post-card mini">
+                            <div class="post-image-placeholder"></div>
+                            <div class="post-content">
+                                <a href="search.html?search=銘柄解説" class="category">銘柄解説</a>
+                                <h3><a href="Fujikura_article.html">【5803】フジクラ：DC向け光ファイバーが絶好調</a></h3>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="sidebar">
+                <div class="widget">
+                    <h3>人気記事ランキング</h3>
+                    <ul class="popular-posts">
+                        <li class="popular-item rank-1">
+                            <a href="NVIDIA_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">1</span>
+                                    <img src="img/NVDA_1.webp" alt="エヌビディア(NVIDIA)の銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">エヌビディア(NVIDIA)ってどんな会社？【NVDA】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-2">
+                            <a href="Broadcom_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">2</span>
+                                    <img src="img/AVGO_comics_1.webp" alt="ブロードコム(Broadcom)の銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">ブロードコム(Broadcom)ってどんな会社？【AVGO】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-3">
+                            <a href="AI_Datacenter_Part1_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">3</span>
+                                    <img src="img/AI_datacenter_part1.webp" alt="AIデータセンターの銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">【前編】AIデータセンター関連銘柄と建設工程総まとめ</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-4">
+                            <a href="Palantir_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">4</span>
+                                    <img src="img/PLTR_1.webp" alt="パランティア(Palantir)の銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">パランティア(Palantir)ってどんな会社？【PLTR】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-5">
+                            <a href="WesternDigital_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">5</span>
+                                    <img src="img/SNDK_1.webp" alt="サンディスク(SanDisk)の銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">サンディスクってどんな会社？【SNDK】</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget">
+                    <h3>カテゴリ</h3>
+                    <ul>
+                        <li><a href="search.html?search=銘柄解説">銘柄解説</a></li>
+                        <li><a href="search.html?search=相場ニュース">相場ニュース</a></li>
+                        <li><a href="search.html?search=半導体">半導体</a></li>
+                        <li><a href="search.html?search=AI">AI</a></li>
+                        <li><a href="search.html?search=電気">電気</a></li>
+                        <li><a href="search.html?search=金融">金融</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+        <div class="author-profile-section">
+            <h2 class="section-title">筆者プロフィール</h2>
+            <div class="author-card">
+                <img src="author.png" alt="筆者ムロタニのアイコン画像" class="author-img">
+                <div class="author-info">
+                    <h3>ムロタニ</h3>
+                    <p>ファンダメンタルは苦手ですが、がんばってぼちぼち書いていきます！<br>お問い合わせ・要望等はXのDMにおねがいします↓</p>
+                    <div class="author-social">
+                        <a href="https://x.com/EduKodomo98564">Twitter</a>
+                        <a href="#">Instagram</a>
+                        <a href="rss.xml">RSS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 サクッと銘柄解説ブログ！ All Rights Reserved.<br>投資の判断は自己責任でお願いします。</p>
+            <p style="margin-top: 10px;"><a href="sitemap.html"
+                    style="color: #98c1d9; text-decoration: none; font-size: 0.9rem; margin-right: 15px;">サイトマップ</a><a
+                    href="privacy-policy.html"
+                    style="color: #98c1d9; text-decoration: none; font-size: 0.9rem;">プライバシーポリシー</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>
