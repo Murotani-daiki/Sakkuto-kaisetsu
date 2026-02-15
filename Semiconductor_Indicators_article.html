@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V13BFW7X6Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-V13BFW7X6Z');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="半導体株投資でPERだけに頼るのは危険？機関投資家が重視する「売上高在庫比率」「設備投資額」「歩留まり」の3つの重要指標を徹底解説！シリコンサイクルの罠を避け、勝率を上げるための投資知識をサクッと紹介します。">
+    <title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！ - サクッと銘柄解説ブログ！</title>
+    <link rel="icon" href="logo.webp" type="image/webp">
+    <link rel="stylesheet" href="style.css">
+    <link rel="canonical" href="https://sakutto-kaisetsu.com/Semiconductor_Indicators_article.html">
+    <link rel="alternate" type="application/rss+xml" title="サクッと銘柄解説ブログ！ RSS Feed"
+        href="https://sakutto-kaisetsu.com/rss.xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://sakutto-kaisetsu.com/Semiconductor_Indicators_article.html">
+    <meta property="og:title" content="半導体株を見るときの「本当に重要な指標」３選！PERは危険？！">
+    <meta property="og:description"
+        content="半導体株投資でPERだけに頼るのは危険？機関投資家が重視する「売上高在庫比率」「設備投資額」「歩留まり」の3つの重要指標を徹底解説！シリコンサイクルの罠を避け、勝率を上げるための投資知識をサクッと紹介します。">
+    <meta property="og:image" content="https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://sakutto-kaisetsu.com/Semiconductor_Indicators_article.html">
+    <meta property="twitter:title" content="半導体株を見るときの「本当に重要な指標」３選！PERは危険？！">
+    <meta property="twitter:description"
+        content="半導体株投資でPERだけに頼るのは危険？機関投資家が重視する「売上高在庫比率」「設備投資額」「歩留まり」の3つの重要指標を徹底解説！シリコンサイクルの罠を避け、勝率を上げるための投資知識をサクッと紹介します。">
+    <meta property="twitter:image" content="https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "半導体株を見るときの「本当に重要な指標」３選！PERは危険？！",
+      "description": "半導体株投資でPERだけに頼るのは危険？機関投資家が重視する「売上高在庫比率」「設備投資額」「歩留まり」の3つの重要指標を徹底解説！シリコンサイクルの罠を避け、勝率を上げるための投資知識をサクッと紹介します。",
+      "image": "https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp",
+      "author": {
+        "@type": "Person",
+        "name": "ムロタニ"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "サクッと銘柄解説ブログ！",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://sakutto-kaisetsu.com/logo.webp"
+        }
+      },
+      "datePublished": "2026-02-15",
+      "dateModified": "2026-02-15"
+    }
+    </script>
+    <style>
+        .highlight {
+            background: linear-gradient(transparent 60%, #ffff66 60%);
+            font-weight: bold;
+        }
+
+        .point-box {
+            background-color: #f0f8ff;
+            border: 2px solid #007bff;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            position: relative;
+        }
+
+        .point-box::before {
+            content: "POINT";
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background-color: #007bff;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .warning-box {
+            background-color: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            position: relative;
+        }
+
+        .warning-box::before {
+            content: "注意！";
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background-color: #ffc107;
+            color: #333;
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .toc {
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            padding: 15px 20px;
+            margin: 20px 0;
+            border: 1px solid #ddd;
+        }
+
+        .toc-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .toc li {
+            margin-bottom: 8px;
+            border-bottom: 1px dashed #eee;
+            padding-bottom: 5px;
+        }
+
+        .toc li:last-child {
+            border-bottom: none;
+        }
+
+        .toc a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        .toc a:hover {
+            color: #007bff;
+        }
+
+        .indicator-header {
+            background-color: #e3f2fd;
+            padding: 10px 15px;
+            border-left: 5px solid #2196f3;
+            margin: 30px 0 20px;
+            font-size: 1.4rem;
+            font-weight: bold;
+            color: #0d47a1;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="logo.webp" alt="サクッと銘柄解説ブログ！のロゴ" class="logo-img">
+                サクッと銘柄解説ブログ！
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="per_forecast.html">予想PER一覧</a></li>
+                </ul>
+            </nav>
+            <form action="search.html" method="get" class="search-form">
+                <input type="text" placeholder="キーワード検索..." name="search" class="search-input">
+                <button type="submit" class="search-button">🔍</button>
+            </form>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="content-wrapper">
+            <div class="main-content article-content">
+                <div class="article-header">
+                    <a href="search.html?search=銘柄解説" class="category analysis">銘柄解説</a>
+                    <a href="search.html?search=半導体" class="category">半導体</a>
+                    <h1>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</h1>
+                    <div class="post-meta">
+                        <span class="date">2026.02.15</span>
+                        <span class="read-time"> この記事は5分で読めます</span>
+                    </div>
+                </div>
+
+                <div class="article-body">
+                    <div class="featured-image">
+                        <img src="img/Semiconductor_Indicators.webp" alt="半導体指標解説記事のサムネイル" class="main-featured-img">
+                    </div>
+
+                    <p>「NVIDIAがすごい」「次はAI半導体だ」</p>
+                    <p>連日ニュースを賑わす半導体銘柄。しかし、いざ買ってみると、好決算なのに暴落したり、逆に悪材料が出尽くして急騰したりと、値動きが読めずに苦労している方も多いのではないでしょうか？</p>
+                    <p>実は、半導体株投資において、一般的な指標であるPER（株価収益率）や単純な売上高だけを見ていると、<b class="highlight">「サイクルの罠」</b>にハマってしまいます。</p>
+                    <p>今回は、機関投資家や熟練のトレーダーが、決算書やニュースのどこを“凝視”しているのか、その「本当に重要な指標」を3つに絞って解説します。</p>
+
+                    <div class="toc">
+                        <div class="toc-title">目次</div>
+                        <ul>
+                            <li><a href="#section1">指標①：売上高在庫比率</a></li>
+                            <li><a href="#section2">指標②：設備投資額（Capex）と受注残高</a></li>
+                            <li><a href="#section3">指標③：最先端技術の「歩留まり」と「パッケージング」</a></li>
+                            <li><a href="#section4">【注意】PER（株価収益率）の罠</a></li>
+                            <li><a href="#summary">まとめ：数字の裏にあるストーリーを読む</a></li>
+                        </ul>
+                    </div>
+
+                    <h2 id="section1" class="indicator-header">指標①：売上高在庫比率</h2>
+                    <p>半導体投資で最も基本にして、最も重要なのが<b class="highlight">「シリコンサイクル（在庫の波）」</b>です。</p>
+                    <p>半導体は「好況（作りすぎ）→ 在庫過多 → 価格下落 → 減産 → 在庫不足 →
+                        価格高騰」というサイクルを数年単位で繰り返します。半導体は製品寿命が短いため、在庫が積み上がると価格を下げて売るしかなくなり、利益を圧迫します。</p>
+
+                    <div class="point-box">
+                        <h3>ここに注目！</h3>
+                        <p><strong>売上高在庫比率（在庫が売上の何％を占めるか）</strong></p>
+                        <p><code>計算式：(在庫（棚卸資産） ÷ 売上高) × 100</code></p>
+                    </div>
+
+                    <p>実は、半導体株の底打ちは、<b class="highlight">「売上高在庫比率が過去最高水準に達し、これ以上悪くなりようがない」</b>というタイミングで起こります。
+                        「在庫がパンパンで、もう誰も買わない」とニュースで悲観されている時こそ、比率が低下に転じる（＝サイクルが反転する）一歩手前なのです。</p>
+                    <p>売上が減っているのに、在庫比率がグングン上がっている銘柄は避ける。逆に、比率がピークに達して、横ばいから低下し始めた銘柄は、株価のロケット発射が近いかもしれません。</p>
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="img/Semiconductor_Indicators_chart.webp" alt="売上高在庫比率と株価のシリコンサイクル相関図"
+                            style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                        <p style="font-size: 0.8rem; color: #666; margin-top: 5px;">
+                            売上高在庫比率と株価の逆相関イメージ：マイクロン・テクノロジーのチャート</p>
+                    </div>
+
+
+                    <h2 id="section2" class="indicator-header">指標②：設備投資額（Capex）と受注残高</h2>
+                    <p>半導体業界は、巨大なサプライチェーンで繋がっています。「誰かの支出は、誰かの売上」です。特に注目すべきは、業界のリーダーたちの財布の紐です。</p>
+
+                    <h3>1. ビッグテックの設備投資（Capex）</h3>
+                    <p>Microsoft、Google、Metaなどの「ハイパースケーラー」が、データセンターにどれだけお金を使う計画か？</p>
+                    <p>➡ この数字が増えれば、<strong>NVIDIA（GPU）やBroadcom（通信半導体）</strong>の売上が約束されます。</p>
+
+                    <h3>2. TSMCの設備投資計画</h3>
+                    <p>世界最大のファウンドリであるTSMCが「来年は設備投資を増やす」と言えば？</p>
+                    <p>➡ <strong>東京エレクトロンやレーザーテック、Applied Materials</strong>などの「製造装置メーカー」の株価にとって最強の好材料となります。</p>
+
+                    <h3>3. 製造装置メーカーの「受注残高（Backlog）」</h3>
+                    <p>装置メーカーを見る時は、現在の売上よりも<b
+                            class="highlight">「受注残高」</b>を見ましょう。これは「将来の売上が確約されている分」であり、数ヶ月〜半年先の業績を占う先行指標となります。</p>
+
+                    <h2 id="section3" class="indicator-header">指標③：最先端技術の「歩留まり」と「パッケージング」</h2>
+                    <p>これまで半導体は「微細化（回路をどれだけ細くできるか）」がすべてでした。しかしAI時代では、それだけでは足りなくなっています。特にAI時代において重要なのは以下のキーワードです。</p>
+
+                    <h3>歩留まり（Yield）</h3>
+                    <p>微細化が進むほど、「作ったチップのうち、何％が正常に動くか」という歩留まりが重要になります。</p>
+                    <ul>
+                        <li><strong>歩留まりが低いと：</strong> 製造コスト増、出荷量停滞、利益率悪化の悪循環。</li>
+                        <li><strong>歩留まりが改善すると：</strong> 利益率が一気に改善し、株価が跳ねることも珍しくありません。</li>
+                    </ul>
+                    <p>TSMCやSamsungの決算で歩留まりに関するコメントが注目されるのはこのためです。</p>
+
+                    <h3>HBMの採用比率（メモリ企業の場合）</h3>
+                    <p>Samsung、SK
+                        Hynix、Micronなどのメモリ企業を見る場合、単なるDRAM市況だけでなく、「利益率の高い<strong>HBM（AI用メモリ）</strong>のシェアがどれだけ取れているか」が勝敗を分けます。
+                    </p>
+
+                    <h3>CoWoSなどのパッケージング能力</h3>
+                    <p>今、GPUやHBMが“足りない”と言われる理由は、チップそのものが不足しているからではありません。本当のボトルネックは、それらを組み立てる<strong>「後工程（パッケージング）」</strong>が追いついていないことです。
+                    </p>
+                    <p>パッケージングでは、チップを積み重ねる、配線をつなぐ、基板に載せるといった高度な作業が必要です。特に <strong>CoWoS（Chip on Wafer on
+                            Substrate）</strong> のような先端パッケージは、AI向けGPUやHBMに必須です。</p>
+                    <p>ここが詰まると、どれだけチップを作っても製品として出荷できません。つまり、<strong>パッケージング能力＝AI時代の“真の供給力”</strong>と言っても過言ではありません。</p>
+
+                    <div class="warning-box">
+                        <h2 id="section4" style="margin-top: 0; color: #856404;">【注意】PER（株価収益率）の罠</h2>
+                        <p>最後に、最も多くの人が陥る罠について触れておきます。</p>
+                        <p><strong>「半導体株は、PERが高い時に買い、低い時に売る」</strong>という格言があります（あくまで極端な例ですが、真理を含んでいます）。</p>
+                        <ul>
+                            <li><strong>サイクルの底（不況）：</strong> 利益が激減するため、PERは異常に「割高」に見えます。しかし、そこが株価の底であることが多い。</li>
+                            <li><strong>サイクルの頂点（好況）：</strong>
+                                利益が爆発的に出るため、PERは非常に「割安」に見えます。しかし、そこから需要が急減し、株価が暴落することがあります。</li>
+                        </ul>
+                        <p>「PERが低いからお買い得」と飛びつくと、そこがサイクルの頂点（天井）だった、というのはよくある失敗です。PERはあくまで参考程度にし、これまで挙げた「在庫」や「先行投資」の動きを優先してください。
+                        </p>
+                    </div>
+
+                    <h2 id="summary" class="section-title">まとめ：数字の裏にあるストーリーを読む</h2>
+                    <p>半導体株投資で勝つために本当に重要な指標は、以下の3つです。</p>
+                    <div class="point-box">
+                        <ol>
+                            <li><strong>在庫の増減</strong>（シリコンサイクルの現在地）</li>
+                            <li><strong>大手顧客の設備投資計画</strong>（将来の需要）</li>
+                            <li><strong>特定の技術トレンドへの関与度</strong>（AI、HBM、後工程）</li>
+                        </ol>
+                    </div>
+                    <p>表面的な数字だけでなく、産業全体の「モノとお金の流れ」をイメージできるようになると、半導体株の値動きが今までとは違った景色に見えてくるはずです！</p>
+
+                </div>
+
+                <div class="article-footer">
+                    <a href="index.html" class="back-link">一覧に戻る</a>
+                </div>
+                <section class="related-posts">
+                    <h2 class="section-title">おすすめの関連記事</h2>
+                    <div class="related-grid">
+                        <article class="post-card mini">
+
+                            <img src="img/Semicondaucter_part1.webp" alt="半導体製造プロセス解説（ウエハー製造編）のサムネイル"
+                                class="popular-img">
+                            <div class="post-content">
+                                <a href="search.html?search=業界研究" class="category analysis">業界研究</a>
+                                <h3><a href="Semiconductor_Process_Part1_article.html">【前編】半導体製造工程と関連銘柄まとめ
+                                        前編：設計から露光まで</a></h3>
+                            </div>
+                        </article>
+                        <article class="post-card mini">
+                            <img src="img/Semiconductor_Profit_Ranking.webp" alt="半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル"
+                                class="card-img">
+                            <div class="post-content">
+                                <a href="search.html?search=業界研究" class="category analysis">業界研究</a>
+                                <h3><a href="Semiconductor_Profit_Ranking_article.html">半導体で一番儲かる工程はどこ？利益率ランキングで徹底解説</a>
+                                </h3>
+                            </div>
+                        </article>
+                        <article class="post-card mini">
+                            <img src="img/FUJI_1.webp" alt="フジクラの銘柄解説記事のサムネイル" class="card-img">
+                            <div class="post-content">
+                                <a href="search.html?search=銘柄解説" class="category analysis">銘柄解説</a>
+                                <h3><a
+                                        href="Fujikura_article.html">【5803】フジクラってどんな会社？データセンターの血管、光ファイバーの覇者をサクッとマンガで解説！</a>
+                                </h3>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="sidebar">
+                <div class="widget">
+                    <h3>人気記事ランキング</h3>
+                    <ul class="popular-posts">
+                        <li class="popular-item rank-1">
+                            <a href="NVIDIA_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">1</span>
+                                    <img src="img/NVDA_1.webp" alt="エヌビディア(NVIDIA)の銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">エヌビディア(NVIDIA)ってどんな会社？【NVDA】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-2">
+                            <a href="Broadcom_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">2</span>
+                                    <img src="img/AVGO_comics_1.webp" alt="ブロードコム(Broadcom)の銘柄解説" class="popular-img"
+                                        width="320" height="180" loading="lazy" decoding="async">
+                                </div>
+                                <span class="popular-title">ブロードコム(Broadcom)ってどんな会社？【AVGO】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-3">
+                            <a href="AI_Datacenter_Part2_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">3</span>
+                                    <img src="img/AI_datacenter_part2.webp" alt="AIデータセンター建設工事編のサムネイル"
+                                        class="popular-img">
+                                </div>
+                                <span class="popular-title">【中編】AIデータセンター建設工事段階の注目株</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget">
+                    <h3>カテゴリ</h3>
+                    <ul>
+                        <li><a href="search.html?search=銘柄解説">銘柄解説</a></li>
+                        <li><a href="search.html?search=相場ニュース">相場ニュース</a></li>
+                        <li><a href="search.html?search=半導体">半導体</a></li>
+                        <li><a href="search.html?search=AI">AI</a></li>
+                        <li><a href="search.html?search=電気">電気</a></li>
+                        <li><a href="search.html?search=金融">金融</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+        <div class="author-profile-section">
+            <h2 class="section-title">筆者プロフィール</h2>
+            <div class="author-card">
+                <img src="author.png" alt="筆者ムロタニのアイコン画像" class="author-img">
+                <div class="author-info">
+                    <h3>ムロタニ</h3>
+                    <p>デジタルネイティブ世代の現役京大生。ファンダメンタルは苦手ですが、がんばってぼちぼち書いていきます！<br>お問い合わせ・要望等はXのDMにおねがいします↓</p>
+                    <div class="author-social">
+                        <a href="https://x.com/EduKodomo98564">Twitter</a>
+                        <a href="#">Instagram</a>
+                        <a href="rss.xml">RSS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 サクッと銘柄解説ブログ！ All Rights Reserved.<br>投資の判断は自己責任でお願いします。</p>
+            <p style="margin-top: 10px;"><a href="sitemap.html"
+                    style="color: #98c1d9; text-decoration: none; font-size: 0.9rem; margin-right: 15px;">サイトマップ</a><a
+                    href="privacy-policy.html"
+                    style="color: #98c1d9; text-decoration: none; font-size: 0.9rem;">プライバシーポリシー・免責事項</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>

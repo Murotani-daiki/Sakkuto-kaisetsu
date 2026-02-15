@@ -470,6 +470,10 @@
   <url>
     <loc>https://sakutto-kaisetsu.com/index.html</loc>
     <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp</image:loc>
+      <image:caption>半導体指標解説記事のサムネイル</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part3.webp</image:loc>
       <image:caption>AIデータセンターIT設備・運用のイメージ図</image:caption>
     </image:image>
@@ -801,6 +805,49 @@
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
       <image:caption>SanDisk</image:caption>
       <image:title>シーゲイト・テクノロジーってどんな会社？ AI需要でHDDがまさかの大復活！ サクッとマンガで解説！【STX】</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sakutto-kaisetsu.com/Semiconductor_Indicators_article.html</loc>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp</image:loc>
+      <image:caption>半導体指標解説記事のサムネイル</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Indicators_chart.webp</image:loc>
+      <image:caption>売上高在庫比率と株価のシリコンサイクル相関図</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
+      <image:caption>半導体製造プロセス解説（ウエハー製造編）のサムネイル</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
+      <image:caption>フジクラの銘柄解説記事のサムネイル</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part2.webp</image:loc>
+      <image:caption>AIデータセンター建設工事編のサムネイル</image:caption>
+      <image:title>半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</image:title>
     </image:image>
   </url>
   <url>
