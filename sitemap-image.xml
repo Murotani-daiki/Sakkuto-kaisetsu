@@ -470,6 +470,18 @@
   <url>
     <loc>https://sakutto-kaisetsu.com/index.html</loc>
     <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Walmart_thumbnail.webp</image:loc>
+      <image:caption>ウォルマート解説記事のサムネイル</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/OpticalFiber_Theme.webp</image:loc>
+      <image:caption>銅線から光ファイバーへの転換を解説する記事のサムネイル</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PSR_thumbnail.webp</image:loc>
+      <image:caption>PSR解説記事のサムネイル</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp</image:loc>
       <image:caption>半導体指標解説記事のサムネイル</image:caption>
     </image:image>
@@ -659,6 +671,54 @@
     </image:image>
   </url>
   <url>
+    <loc>https://sakutto-kaisetsu.com/OpticalFiber_Theme_article.html</loc>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/OpticalFiber_Theme.webp</image:loc>
+      <image:caption>光ファイバー関連銘柄の解説イメージ</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
+      <image:caption>フジクラの銘柄解説記事のサムネイル</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part3.webp</image:loc>
+      <image:caption>AIデータセンター後編記事のサムネイル</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Indicators.webp</image:loc>
+      <image:caption>半導体指数解説記事のサムネイル</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part1.webp</image:loc>
+      <image:caption>AIデータセンターの銘柄解説</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
+      <image:caption>サンディスク(SanDisk)の銘柄解説</image:caption>
+      <image:title>銅線は終わり、時代は光ファイバー！ フジクラなど注目銘柄とともにその理由を徹底解説！</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://sakutto-kaisetsu.com/Palantir_article.html</loc>
     <image:image>
       <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
@@ -742,6 +802,50 @@
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
       <image:caption>SanDisk</image:caption>
       <image:title>米国株の予想PER一覧（コンセンサスベース）</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sakutto-kaisetsu.com/PSR_article.html</loc>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PSR_thumbnail.webp</image:loc>
+      <image:caption>PSR解説のイメージ画像</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PSR_Chart.webp</image:loc>
+      <image:caption>パランティアのチャート</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
+      <image:caption>パランティア解説記事の
+                            サムネイル</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
+      <image:caption>フジクラの銘柄解説記事のサムネイル</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part2.webp</image:loc>
+      <image:caption>AIデータセンター建設工事編のサムネイル</image:caption>
+      <image:title>赤字企業を評価する最強の指標”PSR”の意味と使い方を解説！ 第２のパランティアを探せ！</image:title>
     </image:image>
   </url>
   <url>
@@ -1123,6 +1227,54 @@
       <image:loc>https://sakutto-kaisetsu.com/img/SNDK_1.webp</image:loc>
       <image:caption>SanDisk</image:caption>
       <image:title>東京エレクトロンってどんな会社？ 半導体製造装置の巨人をサクッとマンガで解説！ 世界シェアトップクラスの強み【8035】</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sakutto-kaisetsu.com/Walmart_article.html</loc>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Walmart_thumbnail.webp</image:loc>
+      <image:caption>ウォルマート株はなぜ絶好調？「小売業のNVIDIA」と呼ばれる理由と驚異の変貌を徹底解説！</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semicondaucter_part1.webp</image:loc>
+      <image:caption>半導体製造プロセス解説（ウエハー製造編）のサムネイル</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/Semiconductor_Profit_Ranking.webp</image:loc>
+      <image:caption>半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AI_datacenter_part1.webp</image:loc>
+      <image:caption>AIデータセンター構築の解説記事のサムネイル</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/NVDA_1.webp</image:loc>
+      <image:caption>エヌビディア(NVIDIA)の銘柄解説</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AVGO_comics_1.webp</image:loc>
+      <image:caption>ブロードコム(Broadcom)の銘柄解説</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/AMD_1.webp</image:loc>
+      <image:caption>AMD(アドバンスト・マイクロ・デバイセズ)の銘柄解説</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/PLTR_1.webp</image:loc>
+      <image:caption>パランティア(Palantir)の銘柄解説</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakutto-kaisetsu.com/img/FUJI_1.webp</image:loc>
+      <image:caption>フジクラ(Fujikura)の銘柄解説</image:caption>
+      <image:title>ウォルマート株はなぜ絶好調？ 「小売業のNVIDIA」と呼ばれる理由と 驚異の変貌を徹底解説！</image:title>
     </image:image>
   </url>
   <url>
