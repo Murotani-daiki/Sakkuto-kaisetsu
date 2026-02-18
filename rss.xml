@@ -5,8 +5,15 @@
   <link>https://sakutto-kaisetsu.com/</link>
   <description>米国株・日本株の銘柄をマンガでサクッと解説！投資に役立つ情報を分かりやすく提供します。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Feb 2026 12:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 23:00:00 +0900</lastBuildDate>
   <atom:link href="https://sakutto-kaisetsu.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>データセンターのコスト構造から見る「どの企業が儲かるのか」徹底解説！</title>
+    <link>https://sakutto-kaisetsu.com/DataCenter_Cost_Structure_article.html</link>
+    <description>AIデータセンターのコスト構造を徹底分解！CapExとOpExの内訳から、NVIDIA、Vertiv、Aristaなど「本当に儲かる銘柄」を明らかにします。</description>
+    <pubDate>Wed, 18 Feb 2026 23:00:00 +0900</pubDate>
+    <guid>https://sakutto-kaisetsu.com/DataCenter_Cost_Structure_article.html</guid>
+  </item>
     <item>
     <title>ウォルマート株はなぜ絶好調？「小売業のNVIDIA」と呼ばれる理由と驚異の変貌を徹底解説！</title>
     <link>https://sakutto-kaisetsu.com/Walmart_article.html</link>
