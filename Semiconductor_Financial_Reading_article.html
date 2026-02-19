@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V13BFW7X6Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-V13BFW7X6Z');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="半導体株の決算書、どこに注目すればいい？「粗利益率」「棚卸資産」「設備投資」の3つの重要指標を5分で読める分量で徹底解説。初心者から中上級者まで役立つ実戦的なチェックリスト付きで、半導体銘柄選びの精度を劇的に向上させます。">
+    <title>【半導体株】5分でわかる決算書の読み方！実際に役立つチェックリスト付き！ - サクッと銘柄解説ブログ！</title>
+    <link rel="icon" href="logo.webp" type="image/webp">
+    <link rel="stylesheet" href="style.css">
+    <link rel="canonical" href="https://sakutto-kaisetsu.com/Semiconductor_Financial_Reading_article.html">
+    <link rel="alternate" type="application/rss+xml" title="サクッと銘柄解説ブログ！ RSS Feed"
+        href="https://sakutto-kaisetsu.com/rss.xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://sakutto-kaisetsu.com/Semiconductor_Financial_Reading_article.html">
+    <meta property="og:title" content="【半導体株】5分でわかる決算書の読み方！実際に役立つチェックリスト付き！">
+    <meta property="og:description"
+        content="半導体株の決算書、どこに注目すればいい？「粗利益率」「棚卸資産」「設備投資」の3つの重要指標を5分で読める分量で徹底解説。初心者から中上級者まで役立つ実戦的なチェックリスト付きで、半導体銘柄選びの精度を劇的に向上させます。">
+    <meta property="og:image" content="https://sakutto-kaisetsu.com/img/Semiconductor_Financial_Reading.webp">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://sakutto-kaisetsu.com/Semiconductor_Financial_Reading_article.html">
+    <meta property="twitter:title" content="【半導体株】5分でわかる決算書の読み方！実際に役立つチェックリスト付き！">
+    <meta property="twitter:description"
+        content="半導体株の決算書、どこに注目すればいい？「粗利益率」「棚卸資産」「設備投資」の3つの重要指標を5分で読める分量で徹底解説。初心者から中上級者まで役立つ実戦的なチェックリスト付きで、半導体銘柄選びの精度を劇的に向上させます。">
+    <meta property="twitter:image" content="https://sakutto-kaisetsu.com/img/Semiconductor_Financial_Reading.webp">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "【半導体株】5分でわかる決算書の読み方！実際に役立つチェックリスト付き！",
+      "description": "半導体株の決算書、どこに注目すればいい？「粗利益率」「棚卸資産」「設備投資」の3つの重要指標を5分で読める分量で徹底解説。初心者から中上級者まで役立つ実戦的なチェックリスト付きで、半導体銘柄選びの精度を劇的に向上させます。",
+      "image": "https://sakutto-kaisetsu.com/img/Semiconductor_Financial_Reading.webp",
+      "author": {
+        "@type": "Person",
+        "name": "ムロタニ"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "サクッと銘柄解説ブログ！",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://sakutto-kaisetsu.com/logo.webp"
+        }
+      },
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19"
+    }
+    </script>
+    <style>
+        .highlight {
+            background: linear-gradient(transparent 60%, #ffff66 60%);
+            font-weight: bold;
+        }
+
+        .point-box {
+            background-color: #f0f8ff;
+            border: 2px solid #007bff;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            position: relative;
+        }
+
+        .point-box::before {
+            content: "POINT";
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background-color: #007bff;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .checklist-box {
+            background-color: #e8f5e9;
+            border: 2px solid #4caf50;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            position: relative;
+        }
+
+        .checklist-box::before {
+            content: "CHECK LIST";
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background-color: #4caf50;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .checklist-box ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .checklist-box li {
+            margin-bottom: 15px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+
+        .checklist-box label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .checklist-box input[type="checkbox"] {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 24px;
+            height: 24px;
+            border: 2px solid #4caf50;
+            border-radius: 4px;
+            margin-right: 12px;
+            position: relative;
+            cursor: pointer;
+            flex-shrink: 0;
+            background-color: white;
+            transition: all 0.2s ease;
+        }
+
+        .checklist-box input[type="checkbox"]:checked {
+            background-color: #4caf50;
+            border-color: #4caf50;
+        }
+
+        .checklist-box input[type="checkbox"]:checked::after {
+            content: '✓';
+            position: absolute;
+            color: white;
+            font-size: 18px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .checklist-box li:has(input:checked) label {
+            color: #888;
+            text-decoration: line-through;
+        }
+
+        .checklist-box label:hover input[type="checkbox"] {
+            box-shadow: 0 0 8px rgba(76, 175, 80, 0.4);
+            transform: scale(1.05);
+        }
+
+        .toc {
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            padding: 15px 20px;
+            margin: 20px 0;
+            border: 1px solid #ddd;
+        }
+
+        .toc-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .toc li {
+            margin-bottom: 8px;
+            border-bottom: 1px dashed #eee;
+            padding-bottom: 5px;
+        }
+
+        .toc li:last-child {
+            border-bottom: none;
+        }
+
+        .toc a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        .toc a:hover {
+            color: #007bff;
+        }
+
+        .section-header {
+            background-color: #e3f2fd;
+            padding: 10px 15px;
+            border-left: 5px solid #2196f3;
+            margin: 40px 0 20px;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #0d47a1;
+        }
+
+        .sub-header {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin: 30px 0 15px;
+            color: #333;
+            font-size: 1.3rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="logo.webp" alt="サクッと銘柄解説ブログ！のロゴ" class="logo-img">
+                サクッと銘柄解説ブログ！
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="per_forecast.html">予想PER一覧</a></li>
+                </ul>
+            </nav>
+            <form action="search.html" method="get" class="search-form">
+                <input type="text" placeholder="キーワード検索..." name="search" class="search-input">
+                <button type="submit" class="search-button">🔍</button>
+            </form>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="content-wrapper">
+            <div class="main-content article-content">
+                <div class="article-header">
+                    <a href="search.html?search=投資術" class="category analysis">投資術</a>
+                    <a href="search.html?search=半導体" class="category">半導体</a>
+                    <h1>【半導体株】5分でわかる決算書の読み方！実際に役立つチェックリスト付き！</h1>
+                    <div class="post-meta">
+                        <span class="date">2026.02.19</span>
+                        <span class="read-time"> この記事は5分で読めます</span>
+                    </div>
+                </div>
+
+                <div class="article-body">
+                    <div class="featured-image">
+                        <img src="img/Semiconductor_Financial_Reading.webp" alt="半導体株決算書解説記事のサムネイル"
+                            class="main-featured-img">
+                    </div>
+
+                    <p>「NVIDIAやTSMC、日本の半導体製造装置メーカーに投資したいけれど、決算書のどこを見ればいいのかわからない…」</p>
+                    <p>生成AIブームで絶好調の半導体セクターですが、専門用語が多く、PL（損益計算書）やBS（貸借対照表）の数字も桁違いで圧倒されがちです。しかし、実は<b
+                            class="highlight">見るべきポイントはたったの3つ</b>に絞られます。</p>
+                    <p>この記事では、忙しい投資家のために、半導体銘柄の決算書で<b class="highlight">「ここだけは絶対に見るべき」という3つの重要指標</b>を5分で読める分量で解説します。</p>
+
+                    <div class="toc">
+                        <div class="toc-title">目次</div>
+                        <ul>
+                            <li><a href="#section1">1. 利益の質を見る：「粗利益率」の変化</a></li>
+                            <li><a href="#section2">2. 危険信号を察知する：「棚卸資産（在庫）」の急増</a></li>
+                            <li><a href="#section3">3. 将来の成長を測る：「設備投資」と「研究開発費」</a></li>
+                            <li><a href="#summary">まとめ：決算発表では「ガイダンス」も見逃すな</a></li>
+                            <li><a href="#checklist">【完全保存版】半導体決算のチェックリスト</a></li>
+                        </ul>
+                    </div>
+
+                    <h2 id="section1" class="section-header">1. 利益の質を見る：「粗利益率」の変化</h2>
+                    <p>半導体企業にとって、売上高以上に重要なのが<b class="highlight">「売上総利益率（グロスマージン）」</b>です。</p>
+
+                    <h3 class="sub-header">なぜ重要なのか？</h3>
+                    <p>半導体は技術革新のスピードが凄まじく速い業界です。高い技術力を持つ企業（例：NVIDIA）は、他社が真似できないため、原価に対して高い利益を乗せて売ることができます。</p>
+                    <p>逆に、競争が激化したり、製品が陳腐化したりすると、真っ先にこの「粗利益率」が低下します。</p>
+
+                    <div class="point-box">
+                        <h3>チェックポイント:</h3>
+                        <ul>
+                            <li><strong>前年同期比・前四半期比で上昇しているか？</strong>
+                                <ul>
+                                    <li>上昇トレンドなら「価格決定権がある（＝最強）」状態。</li>
+                                    <li>下落トレンドなら「値下げ競争に巻き込まれている」か「歩留まり（良品率）が悪化している」危険信号。</li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <p><strong>目安:</strong></p>
+                        <ul>
+                            <li>ファブレス（NVIDIAなど）：60〜70%以上なら超優良。</li>
+                            <li>製造装置（東京エレクトロンなど）：40%前後が目安。</li>
+                        </ul>
+                    </div>
+                    <p>「粗利益率」は半導体企業の競争力の源泉を示す最大の指標です。</p>
+
+                    <div style="text-align: center; margin: 30px 0;">
+                        <img src="img/Advantest_Financials.webp" alt="アドバンテストの四半期業績推移資料"
+                            style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                        <p style="font-size: 0.85rem; color: #666; margin-top: 10px;">
+                            アドバンテストの決算説明資料より引用：売上高や利益とともに「粗利益率（Gross Margin）」が明記されている</p>
+                    </div>
+
+                    <h2 id="section2" class="section-header">2. 危険信号を察知する：「棚卸資産（在庫）」の急増</h2>
+                    <p>半導体業界には「シリコンサイクル」という好不況の波があります。この波の変調をいち早く教えてくれるのが<b class="highlight">「棚卸資産（在庫）」</b>です。</p>
+
+                    <h3 class="sub-header">なぜ重要なのか？</h3>
+                    <p>半導体は「生鮮食品」と同じです。性能がすぐに古くなるため、売れ残った在庫はすぐに価値がなくなります（評価損）。</p>
+                    <p>売上が伸びていないのに、在庫だけが急激に増えている場合、それは将来の業績悪化（在庫処分による損失）を予告しています。</p>
+
+                    <div class="point-box">
+                        <h3>チェックポイント:</h3>
+                        <p><strong>「売上の伸び」vs「在庫の伸び」</strong></p>
+                        <ul>
+                            <li>売上高が＋10%なのに、在庫が＋30%増えていたら<b class="highlight"
+                                    style="background: linear-gradient(transparent 60%, #ff9999 60%);">「黄色信号」</b>です。
+                            </li>
+                            <li>逆に、在庫が適正水準まで減ってくれば、市況回復（底打ち）のサインとなります。</li>
+                        </ul>
+                    </div>
+
+                    <h2 id="section3" class="section-header">3. 将来の成長を測る：「設備投資」と「研究開発費」</h2>
+                    <p>IT企業と違い、半導体企業（特に製造や装置メーカー）は、莫大な<b class="highlight">設備投資（Capex）</b>と<b
+                            class="highlight">研究開発費（R&D）</b>が必要です。</p>
+
+                    <h3 class="sub-header">なぜ重要なのか？</h3>
+                    <p>最先端のチップを作るには、1台数百億円する露光装置などが必要です。投資を止めた瞬間、その企業は競争から脱落します。</p>
+
+                    <div class="point-box">
+                        <h3>チェックポイント:</h3>
+                        <p><strong>積極的な投資を継続しているか？</strong></p>
+                        <p>不況期でも投資を続けている企業は、次の好況期にシェアを独占できます。</p>
+                        <hr>
+                        <p><strong>フリーキャッシュフロー（FCF）はプラスか？</strong></p>
+                        <p>「営業キャッシュフロー」から「設備投資」を引いたお金がFCFです。いくら投資しても、手元にお金が残っている企業（TSMCなど）は財務体質が盤石です。</p>
+                    </div>
+
+                    <h2 id="summary" class="section-header">まとめ：決算発表では「ガイダンス」も見逃すな</h2>
+                    <p>最後に、半導体株特有のポイントとして<b class="highlight">「ガイダンス（会社予想）」</b>があります。</p>
+                    <p>半導体株は「未来を織り込む」性質が強いため、過去の実績（今回の決算数値）が良くても、<b
+                            class="highlight">会社が発表した「次の四半期の見通し」が市場予想より弱ければ、株価は暴落します。</b></p>
+
+                    <div id="checklist" class="checklist-box">
+                        <h3>【半導体決算のチェックリスト】</h3>
+                        <ul>
+                            <li><label><input type="checkbox"> 粗利益率は維持・上昇しているか？（競争力）</label></li>
+                            <li><label><input type="checkbox"> 在庫は売上以上に増えていないか？（シリコンサイクルの波）</label></li>
+                            <li><label><input type="checkbox"> 設備投資に見合うキャッシュを稼げているか？（将来の成長）</label></li>
+                            <li><label><input type="checkbox"> 来期の見通し（ガイダンス）は明るいか？</label></li>
+                        </ul>
+                    </div>
+
+                    <p>この3点＋1をチェックするだけで、あなたの銘柄選びの精度は劇的に向上するはずです。まずは気になる企業の決算短信やプレゼン資料を開いて、この数字を探してみましょう。</p>
+
+                </div>
+                <h4>おすすめ書籍</h4>
+                <!-- START MoshimoAffiliateEasyLink -->
+                <script type="text/javascript">
+                    (function (b, c, f, g, a, d, e) {
+                        b.MoshimoAffiliateObject = a;
+                        b[a] = b[a] || function () {
+                            arguments.currentScript = c.currentScript
+                                || c.scripts[c.scripts.length - 2]; (b[a].q = b[a].q || []).push(arguments)
+                        };
+                        c.getElementById(a) || (d = c.createElement(f), d.src = g,
+                            d.id = a, e = c.getElementsByTagName("body")[0], e.appendChild(d))
+                    })
+                        (window, document, "script", "//dn.msmstatic.com/site/cardlink/bundle.js?20220329", "msmaflink");
+                    msmaflink({ "n": "世界一やさしい決算書の教科書1年生 [ 小宮一慶 ]", "b": "", "t": "", "d": "https:\/\/thumbnail.image.rakuten.co.jp", "c_p": "", "p": ["\/@0_mall\/book\/cabinet\/0474\/9784800720474.jpg"], "u": { "u": "https:\/\/item.rakuten.co.jp\/book\/15190365\/", "t": "rakuten", "r_v": "" }, "v": "2.1", "b_l": [{ "id": 1, "u_tx": "楽天市場で見る", "u_bc": "#f76956", "u_url": "https:\/\/item.rakuten.co.jp\/book\/15190365\/", "a_id": 5388939, "p_id": 54, "pl_id": 27059, "pc_id": 54, "s_n": "rakuten", "u_so": 1 }, { "id": 2, "u_tx": "Yahoo!ショッピングで見る", "u_bc": "#66a7ff", "u_url": "https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B81%E5%B9%B4%E7%94%9F%20%5B%20%E5%B0%8F%E5%AE%AE%E4%B8%80%E6%85%B6%20%5D", "a_id": 5388940, "p_id": 1225, "pl_id": 27061, "pc_id": 1925, "s_n": "yahoo", "u_so": 2 }, { "id": 3, "u_tx": "amazonで見る", "u_bc": "#f79256", "u_url": "https:\/\/amzn.to\/4kJkz1v", "a_id": 0, "p_id": 0, "pl_id": 0, "pc_id": 0, "s_n": "custom_4", "u_so": 3 }], "eid": "1ZnBs", "s": "s" });
+                </script>
+                <div id="msmaflink-1ZnBs">リンク</div>
+                <!-- MoshimoAffiliateEasyLink END -->
+
+                <div class="article-footer">
+                    <a href="index.html" class="back-link">一覧に戻る</a>
+                </div>
+                <section class="related-posts">
+                    <h2 class="section-title">おすすめの関連記事</h2>
+                    <div class="related-grid">
+                        <article class="post-card mini">
+                            <img src="img/Semiconductor_Indicators.webp" alt="半導体指標解説記事のサムネイル" class="card-img">
+                            <div class="post-content">
+                                <a href="search.html?search=銘柄解説" class="category analysis">銘柄解説</a>
+                                <h3><a href="Semiconductor_Indicators_article.html">半導体株を見るときの「本当に重要な指標」３選！PERは危険？！</a>
+                                </h3>
+                            </div>
+                        </article>
+                        <article class="post-card mini">
+                            <img src="img/Semiconductor_Profit_Ranking.webp" alt="半導体で一番儲かる工程の利益率ランキング解説記事のサムネイル"
+                                class="card-img">
+                            <div class="post-content">
+                                <a href="search.html?search=業界研究" class="category analysis">業界研究</a>
+                                <h3><a href="Semiconductor_Profit_Ranking_article.html">半導体で一番儲かる工程はどこ？利益率ランキングで徹底解説</a>
+                                </h3>
+                            </div>
+                        </article>
+                        <article class="post-card mini">
+                            <img src="img/NVDA_1.webp" alt="エヌビディア(NVIDIA)の銘柄解説" class="popular-img">
+                            <div class="post-content">
+                                <a href="search.html?search=銘柄解説" class="category analysis">銘柄解説</a>
+                                <h3><a href="NVIDIA_article.html">エヌビディア(NVIDIA)ってどんな会社？【NVDA】</a></h3>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="sidebar">
+                <div class="widget">
+                    <h3>人気記事ランキング</h3>
+                    <ul class="popular-posts">
+                        <li class="popular-item rank-1">
+                            <a href="NVIDIA_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">1</span>
+                                    <img src="img/NVDA_1.webp" alt="エヌビディア(NVIDIA)の銘柄解説" class="popular-img">
+                                </div>
+                                <span class="popular-title">エヌビディア(NVIDIA)ってどんな会社？【NVDA】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-2">
+                            <a href="Broadcom_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">2</span>
+                                    <img src="img/AVGO_comics_1.webp" alt="ブロードコム(Broadcom)の銘柄解説" class="popular-img"
+                                        width="320" height="180" loading="lazy" decoding="async">
+                                </div>
+                                <span class="popular-title">ブロードコム(Broadcom)ってどんな会社？【AVGO】</span>
+                            </a>
+                        </li>
+                        <li class="popular-item rank-3">
+                            <a href="DataCenter_Cost_Structure_article.html">
+                                <div class="popular-img-wrapper">
+                                    <span class="popular-rank">3</span>
+                                    <img src="img/DataCenter_Cost_Structure.webp" alt="データセンターコスト構造記事のサムネイル"
+                                        class="popular-img">
+                                </div>
+                                <span class="popular-title">データセンターのコスト構造から見る「どの企業が儲かるのか」徹底解説！</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="widget">
+                    <h3>カテゴリ</h3>
+                    <ul>
+                        <li><a href="search.html?search=銘柄解説">銘柄解説</a></li>
+                        <li><a href="search.html?search=業界研究">業界研究</a></li>
+                        <li><a href="search.html?search=投資術">投資術</a></li>
+                        <li><a href="search.html?search=半導体">半導体</a></li>
+                        <li><a href="search.html?search=AI">AI</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+        <div class="author-profile-section">
+            <h2 class="section-title">筆者プロフィール</h2>
+            <div class="author-card">
+                <img src="author.png" alt="筆者ムロタニのアイコン画像" class="author-img">
+                <div class="author-info">
+                    <h3>ムロタニ</h3>
+                    <p>デジタルネイティブ世代の現役京大生。ファンダメンタルは苦手ですが、がんばってぼちぼち書いていきます！<br>お問い合わせ・要望等はXのDMにおねがいします↓</p>
+                    <div class="author-social">
+                        <a href="https://x.com/EduKodomo98564">Twitter</a>
+                        <a href="#">Instagram</a>
+                        <a href="rss.xml">RSS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 サクッと銘柄解説ブログ！ All Rights Reserved.<br>投資の判断は自己責任でお願いします。</p>
+            <p style="margin-top: 10px;"><a href="sitemap.html"
+                    style="color: #98c1d9; text-decoration: none; font-size: 0.9rem; margin-right: 15px;">サイトマップ</a><a
+                    href="privacy-policy.html"
+                    style="color: #98c1d9; text-decoration: none; font-size: 0.9rem;">プライバシーポリシー・免責事項</a></p>
+        </div>
+    </footer>
+</body>
+
+</html>
